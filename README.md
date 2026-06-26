@@ -4,6 +4,7 @@
 
 <br>
 
+### Cohort Heatmap
 <p align="center">
 <img width="891" height="558" alt="Screenshot 2026-06-26 at 11 50 27 AM" src="https://github.com/user-attachments/assets/450bd298-732d-4bdd-87e0-f5b8b3e618a1" />
 
@@ -123,6 +124,7 @@ Measure customer retention across monthly acquisition cohorts to understand repe
 
 ### Visualization
 
+### Cohort Heatmap
 <p align="center">
 <img width="891" height="558" alt="Screenshot 2026-06-26 at 11 50 27 AM" src="https://github.com/user-attachments/assets/e1c10ebd-ea52-4981-ad0a-638ab6559e7d" />
 
