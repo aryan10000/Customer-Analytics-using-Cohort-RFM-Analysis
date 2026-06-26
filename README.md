@@ -1,6 +1,6 @@
 # Customer Segmentation & Retention Analytics
 
-> End-to-end customer analytics project using the **Olist Brazilian E-Commerce Dataset**. This project combines **Cohort Analysis** and **RFM (Recency, Frequency, Monetary) Analysis** to evaluate customer retention, identify high-value customer segments, and generate actionable business recommendations for improving customer lifetime value.
+End-to-end customer analytics project using the **Olist Brazilian E-Commerce Dataset**. This project combines **Cohort Analysis** and **RFM (Recency, Frequency, Monetary) Analysis** to evaluate customer retention, identify high-value customer segments, and generate actionable business recommendations for improving customer lifetime value.
 
 <br>
 
