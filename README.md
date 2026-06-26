@@ -53,10 +53,10 @@ The project answers the following business questions:
 
 Dataset Size
 
-• 99,441 Orders
-• 96,096 Customers
-• 112,650 Order Items
-• Period: 2016–2018
+* 99,441 Orders
+* 96,096 Customers
+* 112,650 Order Items
+* Period: 2016–2018
 
 
 The dataset contains transactional information across multiple relational tables, including:
