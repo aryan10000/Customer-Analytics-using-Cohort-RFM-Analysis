@@ -51,6 +51,14 @@ The project answers the following business questions:
 
 **Dataset:** Olist Brazilian E-Commerce Dataset
 
+Dataset Size
+
+• 99,441 Orders
+• 96,096 Customers
+• 112,650 Order Items
+• Period: 2016–2018
+
+
 The dataset contains transactional information across multiple relational tables, including:
 
 * Customers
@@ -72,6 +80,13 @@ Customer-level features were engineered by combining relevant tables to support 
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+
+## Analytical Techniques
+
+• Feature Engineering
+• Customer Segmentation
+• Cohort Analysis
+• RFM Analysis
 
 ---
 
