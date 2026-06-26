@@ -83,10 +83,10 @@ Customer-level features were engineered by combining relevant tables to support 
 
 ## Analytical Techniques
 
-• Feature Engineering
-• Customer Segmentation
-• Cohort Analysis
-• RFM Analysis
+* Feature Engineering
+* Customer Segmentation
+* Cohort Analysis
+* RFM Analysis
 
 ---
 
