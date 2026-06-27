@@ -12,7 +12,8 @@ The project includes Python-based data preprocessing and analysis, followed by a
 
 <p align="center">
 
-<img width="880" height="497" alt="cohort rfm" src="https://github.com/user-attachments/assets/74fbcd65-6f53-4670-8213-c5d6a02bdeed" />
+<img width="879" height="494" alt="new cohort rfm" src="https://github.com/user-attachments/assets/fa94a123-265e-4399-b129-687d0eb7e18c" />
+
 
 </p>
 
@@ -278,7 +279,8 @@ The visualizations below compare customer spending and purchasing behavior acros
 
 The final Power BI dashboard integrates all key analyses into a single executive report.
 
-<img width="880" height="497" alt="cohort rfm" src="https://github.com/user-attachments/assets/5ad950dc-b2b4-4d63-be6c-0d80abefd517" />
+<img width="879" height="494" alt="new cohort rfm" src="https://github.com/user-attachments/assets/b3b89794-6796-45ae-a715-e39680ce0427" />
+
 
 
 ### Dashboard Features
