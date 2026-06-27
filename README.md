@@ -118,7 +118,7 @@ The Power BI dashboard provides an executive overview of customer performance th
 |---------|-------|
 | Customers | 96,096 |
 | Orders | 99,441 |
-| Order Items | 112,650 |
+| Order Items | 1,12,650 |
 | Analysis Period | 2016 – 2018 |
 
 The project integrates multiple relational tables including:
